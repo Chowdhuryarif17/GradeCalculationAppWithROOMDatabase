@@ -1,2 +1,2 @@
 # GradeCalculationwithROOMDatabase
- it's a android app
+ it's an android app
